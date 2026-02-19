@@ -1,0 +1,1 @@
+# -Project-PaperPluginTemplate-Generator-CLI-
