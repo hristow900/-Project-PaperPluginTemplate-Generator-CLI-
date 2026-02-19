@@ -1,1 +1,1 @@
-# -Project-PaperPluginTemplate-Generator-CLI-
+# paper-plugin-generator
