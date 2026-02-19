@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group = '__GROUP_ID__'
+version = '1.0.0'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Add Paper API dependency here when wiring your plugin.
+    // implementation 'io.papermc.paper:paper-api:<version>'
+}
